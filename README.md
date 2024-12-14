@@ -1,6 +1,7 @@
 ** Web scrapper for Reddit **
 
  How to set up and run the script:
+
  
  1. Install necessary packages
  2. Authenticate with Reddit API,
